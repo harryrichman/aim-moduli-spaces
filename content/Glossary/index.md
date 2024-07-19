@@ -1,5 +1,6 @@
 ---
 title: A glossary of some relevant terms in the moduli space of curves
+short-title: Glossary
 draft: false
 tags: []
 date: 2005-05-15
