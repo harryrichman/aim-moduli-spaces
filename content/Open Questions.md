@@ -1,6 +1,6 @@
 ---
 title: A list of open problems and questions on the moduli space of curves
-short-title: Open questions
+short_title: Open questions
 draft: false
 tags: []
 date: 2005-05-15

@@ -13,6 +13,7 @@ type OrderEntries = "sort" | "filter" | "map"
 
 export interface Options {
   title?: string
+  short_title?: string
   folderDefaultState: "collapsed" | "open"
   folderClickBehavior: "collapse" | "link"
   useSavedState: boolean
@@ -67,9 +68,14 @@ export class FileNode {
     if (fileData.path.length === 1) {
       if (nextSegment === "") {
         // index case (we are the root and we just found index.md), set our data appropriately
-        const title = fileData.file.frontmatter?.title
-        if (title && title !== "index") {
+        const title = fileData.file.frontmatter?.short_title
+        if (title) {
           this.displayName = title
+        } else {
+          const title = fileData.file.frontmatter?.title
+          if (title && title !== "index") {
+            this.displayName = title
+          }  
         }
       } else {
         // direct child
