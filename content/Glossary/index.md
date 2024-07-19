@@ -18,4 +18,6 @@ Please send comments, suggestions, corrections, etc. to either
 - [[Ample cone]]
 - [[Arithmetic genus]]
 - [[Boundary divisors]]
+- [[Classifying space]]
+- [[Coarse and fine moduli spaces]]
 - [[Partial compactifications]]

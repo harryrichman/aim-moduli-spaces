@@ -1,4 +1,7 @@
-# Ample cone
+---
+title: Ample cone
+tags: []
+---
 
 Suppose $X$ is a projective variety, with $\pi : X \hookrightarrow \mathbb P^n$ an inclusion (a "closed immersion"). Projective space has a natural line bundle $\mathcal O(1)$, and the pullback $\pi^* \mathcal O(1)$ is said to be a *very ample* line bundle on $X$. That is, a line bundle is very ample if it can be obtained by pulling back $\mathcal O(1)$ via a closed immersion into projective space. Equivalently, a line bundle is very ample if its global sections $s_0, s_1, \ldots, s_n$ determine a closed immersion into projective space $[s_0, s_1, \ldots, s_n] : X \hookrightarrow \mathbb P^n$. The tensor product of two very ample line bundles is again very ample.
 

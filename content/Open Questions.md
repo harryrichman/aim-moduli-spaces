@@ -1,8 +1,10 @@
 ---
 title: A list of open problems and questions on the moduli space of curves
+short-title: Open questions
 draft: false
 tags: []
 date: 2005-05-15
+author: Jeffrey Herschel Giansiracusa
 ---
 
 This document was produced as part of the activities during the Topology and Geometry of the Moduli space of Curves workshop in March 2005; it is a component of a larger resource site at [http://www.aimath.org/WWN/modspacecurves/](http://www.aimath.org/WWN/modspacecurves/)
