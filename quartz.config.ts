@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "harryrichman.github.io/aim-moduli-space/",
+    baseUrl: "harryrichman.github.io/aim-moduli-space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
