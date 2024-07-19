@@ -1,4 +1,9 @@
-# A list of open problems and questions on the moduli space of curves
+---
+title: A list of open problems and questions on the moduli space of curves
+draft: false
+tags: []
+date: 2005-05-15
+---
 
 This document was produced as part of the activities during the Topology and Geometry of the Moduli space of Curves workshop in March 2005; it is a component of a larger resource site at [http://www.aimath.org/WWN/modspacecurves/](http://www.aimath.org/WWN/modspacecurves/)
 
@@ -29,11 +34,33 @@ Find an explicit cell decomposition of $\mathcal{M}_g$ (no marked points). Sul
 
 In addition, Sarnak has conjectured that $\mathrm{det} \Delta$ gives a Morse function on $\mathcal{M}_g$. (Is there a reason for Sarnak to believe this conjecture true?)
 
-## 3.
+## 3. (Bodigheimer)
 
-## 4.
+## 4. (Getzler et al.)
 
-## 5.
+## 5. (Bertram)
+
+## 5. (Mondello)
+
+## 5. (Looijenga)
+
+## 6. (Madsen)
+
+## 7. (Madsen)
+
+## 8. (Looijenga)
+
+## 9. (Vakil)
+
+## 10. (Mondello)
+
+## 11. (Igusa)
+
+## 12. (Baldwin)
+
+## 13. (Faber)
+
+## 14. (Bertram)
 
 ## 15. (Ellenberg)
 
@@ -49,6 +76,13 @@ $$
 
 exists for all $q$. Is this because of some version of Harer stability at play here?
 
+## 16. (Tseng)
+
 ## 17. (Sullivan)
 
 Fix a curve $C$ and look at all unbranched covers of it. This gives points in $\mathcal{M}_g$. Do these become uniformly dense for any $C$ (with respect to the Teichmuller metric) in universally defined regions $U_{g}$ of $\mathcal{M}_g$ for $g$ large? More precisely, given $\epsilon > 0$, can we find $g_{0}$ such that, for $g > g_{0}$ every point of $U_{g}$ is within distance $\epsilon$ of an unbranched cover of $C$ of genus $g$? This would imply that, given curves $C_1,C_2$, one could find covers $\tilde{C}_1,\tilde{C}_2$ which are arbitrarily close in the moduli space, the Siegel-Ehrenpreis problem.
+
+## 18. (Morita)
+
+## 19. (Sullivan)
+
