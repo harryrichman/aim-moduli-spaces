@@ -9,7 +9,7 @@ This web page is meant to be a collection of resources for mathematicians intere
 A [list of participants](https://aimath.org/cgi-bin/showparticipants.prl?workshop=40&mode=participantlist) is available.
 ## [[Glossary/index|Glossary]]
 
-A glossary of terms is available here. Also in [pdf](https://www.aimath.org/WWN/modspacecurves/glossary.pdf) format.
+A [[Glossary/index|glossary]] of terms is available here. Also in [pdf](https://www.aimath.org/WWN/modspacecurves/glossary.pdf) format.
 
 This document provides brief definitions of technical terms related to the study of the moduli space of curves. It should be helpful for researchers entering the field and in bridging the communication gap between the different camps studying studying the subject.
 
@@ -17,11 +17,11 @@ This document provides brief definitions of technical terms related to the study
 
 An annotated bibliography of [[Canonical References/index|canonical references]] in the subject is available here. Also in [pdf](https://www.aimath.org/WWN/modspacecurves/canonical-references.pdf) format. This should also be an aid to students and to those who wish to learn a different camp's approach to the moduli space of curves.
 
-## [[Open questions]]
+## [[Open Questions]]
 
 Towards the end of the workshop there was discussion session in which participants generated a list of [[Open Questions|interesting questions and open problems]]. Also in [pdf](https://www.aimath.org/WWN/modspacecurves/open-problems.pdf) format.
 
-## [[Lecture notes]]
+## Lecture notes
 
 The slides from Kiyoshi Igusa's talk are here in [pdf](https://www.aimath.org/WWN/modspacecurves/igusa/AxiomSlides2.pdf) and the original [tex](https://www.aimath.org/WWN/modspacecurves/igusa/AxiomSlides2.tex).
 
