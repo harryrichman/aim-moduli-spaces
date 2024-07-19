@@ -1,5 +1,5 @@
 ---
-title: Partial compactifications of $\mathcal{M}_{g, n}$
+title: Partial compactifications of M_{g, n}
 short_title: Partial compactifications
 tags: []
 ---

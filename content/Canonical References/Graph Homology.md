@@ -1,4 +1,6 @@
-# Graph Homology
+---
+title: Graph homology
+---
 
 Kevin Costello highly recommends Kontsevich's paper [Kon94][Kon94] as an excellent source of ideas about graph homology and its relation to the moduli space of curves (although proofs and details are somewhat lacking).
 

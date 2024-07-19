@@ -38,15 +38,35 @@ In addition, Sarnak has conjectured that $\mathrm{det} \Delta$ gives a Morse f
 
 ## 3. (Bodigheimer)
 
+A question related to both of the previous problems: What is the Lusternik-Schnirelman category of $\mathcal{M}_g$? This is a number, bounded above by the dimension, and bounded below by the cup-length of the cohomology ring (the largest number of elements in positive degree which have a non-zero cup product. Can anyone compute the cup-length of the moduli space?
+
 ## 4. (Getzler et al.)
+
+Consider the Hochschild cohomology of the Fukaya category of a compact Kahler manifold $X$. (Roughly speaking, the Fukaya category has Lagrangian subspaces as objects and intersections as morphisms.)
+
+1. Is this (naturally) isomorphic to quantum cohomology? The problem here is to make the known map mathematically rigorous. What does this have to do with what we know about $\overline{\mathcal{M}}_{0,3}$?
+2. Is the cyclic homology of the Fukaya category of $X$ isomorphic to the Gromow-Witten theory of $X$?
+
+Costello's theorems imply that these conjectures are plausible. Costello comments that the existence of the map should be a purely analytic question.
 
 ## 5. (Bertram)
 
+Are there any stable torsion classes in $AH^*(\mathcal{M}_{g,n})$? (Here $AH$ denotes the image of Chow in cohomology.)
+
 ## 5. (Mondello)
+
+Is there a stable torsion class represented by some algebraic cycle which geometers "can see"? e.g. $\lambda_g
+\delta_0$ on $\overline{\mathcal{M}}_g$ satisfies $2\lambda_g \delta_0=0$. Is it zero? Faber says yes, over a field of characteristic 2. Teleman suggests that there are lots of natural torsion classes in $K$-theory (arising from the Grotherdieck-Riemann-Roch theorem); how do they look in cohomology? (Compare to 13. below.)
 
 ## 5. (Looijenga)
 
+As a related question, it is known that the $\kappa_i$'s live on $\overline{\mathcal{M}}_g$. It is true that all of the stable classes (so including torsion) live on the orbifold $\overline{\mathcal{M}}_g$?
+
 ## 6. (Madsen)
+
+Consider the Torelli group $I_{g,n} = \mathrm{ker}\{
+\mathcal{M}_{g,n} \to \mathrm{Aut}(H_1(F_{g,n}),\omega\} \cong
+Sp_{2g}(\mathbb{Z})$. It is known that the odd classes $\kappa_{2i+1}$ on $\mathcal{M}_{g,n}$ can be pulled back from classes in $H^*(Sp_{2g}(\mathbb{Z}))$, but the even classes $\kappa_{2i}$ do not come from the symplectic group. One might thus expect that the even classes pull back to nontrivial classes on the Torelli group, but surprisingly the answer is not known. Do the $\kappa_{2i}$ restrict to zero on $H^*(I_{g,n})$? Is this true stably as $g \to \infty$? Igusa thinks that the answer is "yes."
 
 ## 7. (Madsen)
 
