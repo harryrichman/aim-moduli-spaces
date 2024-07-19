@@ -29,6 +29,11 @@ Find an explicit cell decomposition of $\mathcal{M}_g$ (no marked points). Sul
 
 In addition, Sarnak has conjectured that $\mathrm{det} \Delta$ gives a Morse function on $\mathcal{M}_g$. (Is there a reason for Sarnak to believe this conjecture true?)
 
+## 3.
+
+## 4.
+
+
 ## 15. (Ellenberg)
 
 Consider Hurwitz space (genus $g$, degree $d$). Could the cohomology stabilize as $g \to \infty$ with $d$ fixed? The reason behind this question is that point counting over finite fields gives exactly the behavior we would expect if we had Harer stability in degree 2.
