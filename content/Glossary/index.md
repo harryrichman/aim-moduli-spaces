@@ -1,7 +1,6 @@
 ---
 title: A glossary of some relevant terms in the moduli space of curves
 short-title: Glossary
-draft: false
 tags: []
 date: 2005-05-15
 ---
@@ -20,4 +19,14 @@ Please send comments, suggestions, corrections, etc. to either
 - [[Boundary divisors]]
 - [[Classifying space]]
 - [[Coarse and fine moduli spaces]]
+- [[Deligne-Mumford compactification]]
+- [[Deligne-Mumford stack]]
+- [[Dyer-Lashof-Araki-Kudo operations]]
+- [[Effective cone]]
+- [[Frobenius algebra]]
+- [[Frobenius manifold]]
+- [[General type]]
+- [[Kodaira dimension]]
+- [[Mapping class group]]
 - [[Partial compactifications]]
+- [[Plus construction]]
