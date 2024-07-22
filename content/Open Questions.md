@@ -136,8 +136,10 @@ exists for all $q$. Is this because of some version of Harer stability at play 
 ## 16. (Tseng)
 
 Same question for $C\to BG$, with $G$ a finite group. Tillmann says "yes" for $G=S^1$. More precisely, consider
-$$E\mathrm{Diff}(F_{g,1})\times_{\mathrm{Diff}(F_{g,1})}
-\mathrm{Map}^\partial(F_{g,1},BG)$$
+$$
+E \mathrm{Diff}(F_{g,1})\times_{\mathrm{Diff}(F_{g,1})}
+\mathrm{Map}^\partial(F_{g,1},BG)
+$$
 for $G$ connected, such as $S^1$. This stabilizes by gluing in tori and the induced map on homology is an isomorphism in some range. Is this related?
 
 ## 17. (Sullivan)
