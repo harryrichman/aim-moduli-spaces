@@ -68,6 +68,9 @@ J. P. May,  *$E_{\infty }$ spaces, group completions, and permutative catego
 ### MT01
 I. Madsen and U. Tillmann, *The stable mapping class group and $Q(\mathbb{C}P^\infty_+)$*, Invent. Math. **145** (2001), no. 3, 509-544.
 
+### Mor05
+S. Morita, *Cohomological structure of the mapping class group and beyond*, preprint, 2005.
+
 ### Seg68
 G. Segal, *Classifying spaces and spectral sequences*, Inst. Hautes Études Sci. Publ. Math. (1968), no. 34, 105-112.
 
