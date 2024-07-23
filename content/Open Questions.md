@@ -123,7 +123,7 @@ When will Getzler's paper on $\overline{\mathcal{M}}_1$ appear (even just as a
 
 ## 15. (Ellenberg)
 
-Consider Hurwitz space (genus $g$, degree $d$). Could the cohomology stabilize as $g \to \infty$ with $d$ fixed? The reason behind this question is that point counting over finite fields gives exactly the behavior we would expect if we had Harer stability in degree 2.
+Consider Hurwitz space (genus $g$, degree $d$). Could the cohomology stabilize as $g \to \infty$ with $d$ fixed? The reason behind this question is that point counting over finite fields gives exactly the behavior we would expect if we had [[Harer stability]] in degree 2.
 
 So, could some sort of Harer stability hold for some sort of Hurwitz schemes? Motivation for this question comes from work on number fields/function fields done in the '80s by Darskovksy and Wright.
 
@@ -163,10 +163,12 @@ One may similarly ask questions about the signature of the tautological ring, an
 ## 19. (Sullivan)
 
 This question regards the algebraic structure on the homology of the free loop space of a manifold. There are maps
-$$\displaystyle H_*LM \stackrel{\Delta}{\longrightarrow} H_*LM \otimes H_*LM
+$$
+\displaystyle H_*LM \stackrel{\Delta}{\longrightarrow} H_*LM \otimes H_*LM
 $$
 and
-$$\displaystyle H_*LM \otimes H_*LM \stackrel{\mu}{\longrightarrow} H_*LM
+$$
+\displaystyle H_*LM \otimes H_*LM \stackrel{\mu}{\longrightarrow} H_*LM
 $$
 First the naive question: what is the algebraic structure here? The spectral sequence converging to $H_*LM$ has $E_2$ term a tensor product of a Hopf algebra (coming from the base $M$) and a Frobenius algebra (coming from the fibre). But the differential does not respect these structures.
 
