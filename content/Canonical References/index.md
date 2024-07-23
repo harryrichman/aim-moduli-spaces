@@ -16,5 +16,5 @@ Please send comments, suggestions, corrections, etc. to either
 
 ----
 
-- [[Tautological rings]]
+- [[Canonical References/Tautological rings]]
 - [[Graph Homology]]
