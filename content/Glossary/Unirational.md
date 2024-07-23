@@ -1,0 +1,6 @@
+---
+title: Unirational
+---
+
+A variety ![$ X$](https://www.aimath.org/WWN/modspacecurves/glossary/img1.png) is *unirational* if there is a map ![$ U \rightarrow X$](https://www.aimath.org/WWN/modspacecurves/glossary/img201.png) from an open subset ![$ U \subset
+\mathbb{A}^{N}$](https://www.aimath.org/WWN/modspacecurves/glossary/img202.png) of some affine space whose image contains a dense, open subset of ![$ X$](https://www.aimath.org/WWN/modspacecurves/glossary/img1.png). For instance, ![$ \mathcal{M}_{g}$](https://www.aimath.org/WWN/modspacecurves/glossary/img47.png) is unirational means that there is a family of curves on an open subset of affine space which contains a general curve of genus ![$ g$](https://www.aimath.org/WWN/modspacecurves/glossary/img46.png). This is known to be the case for ![$ g \leq 14$](https://www.aimath.org/WWN/modspacecurves/glossary/img203.png). Moreover, since unirational implies Kodaira dimension ![$ -\infty$](https://www.aimath.org/WWN/modspacecurves/glossary/img115.png), the result of Eisenbud, Harris, and Mumford shows that ![$ \mathcal{M}_g$](https://www.aimath.org/WWN/modspacecurves/glossary/img59.png) is not unirational for ![$ g \geq 24$](https://www.aimath.org/WWN/modspacecurves/glossary/img60.png).
