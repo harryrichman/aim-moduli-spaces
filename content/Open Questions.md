@@ -15,6 +15,8 @@ This document originated as a rough transcription of the problems and questions 
 
 (Some of these problems may have already been solved, and the bibliographic data here is incomplete, so the reader is advised to do the usual background reading before investing time in these questions. Conversely, if you have any information on recent work or useful articles, please let us know so that we can keep this page current.)
 
+----
+
 ## 1. (Vakil, speaking for Looijenga)
 
 Define:
@@ -26,13 +28,13 @@ Define:
 
 (See [[Partial compactifications]] for definitions referred to in the final three entries above.)
 
-Question: Is it true that $\mathcal{M}_{g,n}^*$ has the homotopy type of a complex of (real) dimension $a(\mathcal{M}_{g,n}^\bullet) + \dim_\mathbb{C} \mathcal{M}_{g,n}^\bullet$? If not, is the cohomological dimension $\leq a(\mathcal{M}_{g,n}^\bullet)$ + $\dim_\mathbb{C} \mathcal{M}_{g,n}^\bullet$? What about quasicoherent cohomological dimension $C \leq a(\mathcal{M}_{g,n}^*)$? Or with cohomology of $\ell$-adic sheaves, is the cohomological dimension $a(\mathcal{M}_{g,n}^*) + \dim_\mathbb{C} \mathcal{M}_{g,n}^*$? (Note that some of these have already been answered by Looijenga.)
+Question: Is it true that $\mathcal{M}_{g,n}^*$ has the homotopy type of a complex of (real) dimension $a(\mathcal{M}_{g,n}^*) + \dim_\mathbb{C} \mathcal{M}_{g,n}^*$? If not, is the cohomological dimension $\leq a(\mathcal{M}_{g,n}^*)$ + $\dim_\mathbb{C} \mathcal{M}_{g,n}^*$? What about quasicoherent cohomological dimension $C \leq a(\mathcal{M}_{g,n}^*)$? Or with cohomology of $\ell$-adic sheaves, is the cohomological dimension $a(\mathcal{M}_{g,n}^*) + \dim_\mathbb{C} \mathcal{M}_{g,n}^*$? (Note that some of these have already been answered by Looijenga.)
 
 ## 2. (Sullivan)
 
 Find an explicit cell decomposition of $\mathcal{M}_g$ (no marked points). Sullivan points out that there is no known cell decomposition of $\mathcal{M}_{g,0}$. It was suggested at the problem session that there may exist a Morse function which would provide such a decomposition. Looijenga adds the following remark via email: 
 > My 'suspicion' about the existence of a good Morse function on $\mathcal{M}_g$ is a bit more specific and does not involve lengths of geodesics a priori. 
-> Rather, it is related to the set of conjectures mentioned in Problem (1): it is my hope that there is a naturally defined real-analytic function $f:\mathcal{M}_g\to \mathbf{R}$ (resp. $f:\mathcal{M}_{g,1}\to \mathbf{R}$) which is (a) bounded from below, (b) proper and (c) is such that its Leviform $\sqrt{-1}\partial\overline{\partial} f$ has everywhere at most $g - 2$ (resp. $g-1$) eigenvalues $\leq 0$. 
+> Rather, it is related to the set of conjectures mentioned in Problem [[Open Questions#1. (Vakil, speaking for Looijenga)]]: it is my hope that there is a naturally defined real-analytic function $f:\mathcal{M}_g\to \mathbf{R}$ (resp. $f:\mathcal{M}_{g,1}\to \mathbf{R}$) which is (a) bounded from below, (b) proper and (c) is such that its Leviform $\sqrt{-1}\partial\overline{\partial} f$ has everywhere at most $g - 2$ (resp. $g-1$) eigenvalues $\leq 0$. 
 > This would not only imply Harer's result cited above, but would also imply that the cohomological dimension for coherent complex-analytic sheaves is at most $g-2$ (resp. $g-1$) and for constructible sheaves is at most $(3g - 3) + g - 2$ (resp. $(3g-2)+g-1$).
 
 In addition, Sarnak has conjectured that $\mathrm{det} \Delta$ gives a Morse function on $\mathcal{M}_g$. (Is there a reason for Sarnak to believe this conjecture true?)

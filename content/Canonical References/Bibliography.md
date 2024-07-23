@@ -29,7 +29,7 @@ C. Faber and R. Pandharipande, *Logarithmic series and Hodge integrals in the
 ### FP03
 ---, *Relative maps and tautological classes*, [math.AG/0304485](https://arxiv.org/abs/math/0304485), 2003.
 
-### GM89
+### GM80
 M. Goresky and R. MacPherson, *Intersection homology theory*, Topology **19** (1980), no. 2, 135-162.
 
 ### GM83
